@@ -5,7 +5,7 @@ function buttonClick(val)
 {
     if(flag==1){
       console.log("working");
-      if (document.getElementById("screen").value=="ready"){
+      if (document.getElementById("screen").value=="Hey"){
           clearScreen();
 
       }
@@ -26,7 +26,7 @@ function equalClick(){
 }
 function Onbtn(){
     flag=1
-    document.getElementById("screen").value="ready";
+    document.getElementById("screen").value="Hey";
     
     
     
@@ -34,5 +34,5 @@ function Onbtn(){
 function offbtn(){  
     flag=0;
     clearScreen();
-    document.getElementById("screen").value="bye"
+    document.getElementById("screen").value="bye Guys"
 }
