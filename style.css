@@ -27,6 +27,12 @@
     pointer-events: none;
     margin-left: 25px;
 
+75
+                    // alert('Button clicked')
+75
+                    // alert('Button clicked')
+75
+                    // alert('Button clicked')
 }
 .btn{
 
@@ -62,7 +68,7 @@
 .btn:active{
     box-shadow: inset 4px 5px 5px #babeec, inset -1px -1px 2px #ffff;
 }
-.btn1{
+#btn1{
     margin-left: 10px;
     width: 60px;
     height: 50px;
@@ -93,7 +99,7 @@
     box-shadow: 5px 5px 8px #b6acb6, -5px -5px 8px #faf4f4;
     margin: 15px 0 0 5px;
 }
-.btn4{
+#btn4{
     width: 60px;
     height: 50px;
     border: none;
