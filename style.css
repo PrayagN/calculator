@@ -57,7 +57,7 @@
     box-shadow: 5px 5px 8px #b6acb6, -5px -5px 8px #faf4f4;
     margin: 15px 0 0 5px;
 }
-.buttons{
+#buttons{
     margin-left: 20px;
 }
 .btn:active{
