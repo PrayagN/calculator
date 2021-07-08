@@ -27,12 +27,7 @@
     pointer-events: none;
     margin-left: 25px;
 
-75
-                    // alert('Button clicked')
-75
-                    // alert('Button clicked')
-75
-                    // alert('Button clicked')
+
 }
 .btn{
 
@@ -81,9 +76,29 @@
     background: red;
     box-shadow: 5px 5px 8px #b6acb6, -5px -5px 8px #faf4f4;
     margin: 15px 0 0 140px;
-    animation: 1.4s linear infinite;
+    animation: 1.4s linear infinite;75
+31
+                    // alert('Button clicked')
+32
+75
+33
+                    // alert('Button clicked')
+34
+75
+35
+                    // alert('Button clicked')
 
-}
+}75
+31
+                    // alert('Button clicked')
+32
+75
+33
+                    // alert('Button clicked')
+34
+75
+35
+                    // alert('Button clicked')
 
 .btn3{
     width: 60px;
